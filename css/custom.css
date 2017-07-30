@@ -1,0 +1,121 @@
+body {
+  font-family: 'Source Code Pro', monospace;
+  background-color:#0d0c0e;
+  color: #188665;
+}
+
+.navbar-custom{
+  font-size: 20px;
+   background-color:#1b1e21;
+  color: #188665;
+}
+#about-etc{
+  font-size: 20px;
+
+}
+.skills{
+
+  font-size: 20px;
+   background-color:#1b1e21;
+  color: #188665;
+}
+
+.jumbotron{
+   background-color:#1b1e21;
+  color: #188665;
+}
+
+#hire{
+  font-size: 20px;
+}
+.container-fluid{
+  width: 100%;
+
+}
+.skills{
+  font-size: 20px;
+}
+.p-card{
+  border:1px solid rgba(0,0,0,0.3);
+  width: 30%;
+  display:inline-block;
+  text-align:center;
+
+  padding:20px;
+  min-height: 200px;
+ vertical-align:top;
+}
+.proj {
+  text-align: center;
+}
+.contactme{
+  border-radius: 20px;
+  font-size: 20px;
+}
+#footer {
+  height: 60px;
+  background-color: #0d0c0e;
+  font-size: 15px;
+
+    position: relative;
+width: 100%;
+    bottom: 0px;
+
+  color: #188665;
+}
+.navbar-custom {
+    background-color:#0d0c0e;
+    color:#188665;
+
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#188665;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #188665;
+    background-color:grey;
+}
+
+
+
+.navbar-custom .navbar-brand {
+    background-color:#0d0c0e;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#0d0c0e;
+}
+.navbar-custom .icon-bar {
+    background-color:#0d0c0e;
+  color: #188665;
+}
+#hire{
+    background-color: #1b1e21;
+}
+.foot{
+  background-color: #0d0c0e;
+}
+.contactme{
+  background-color: transparent;
+  color:#188665;
+}
+.linkout{
+  color:#188665;
+}
+.navbar-toggle-icon{
+   color:#188665;
+  background-color:#1b1e21;
+  border: 1px solid #188665;
+  border-radius: 40px;
+  padding: 10px;
+}
+.fa-bars:hover{
+  color: #188665;
+  background-color: #0d0c0e;
+}
+.fa-bars{
+  color: #188665;
+  background-color: #0d0c0e;
+  font-size: 20px;
+}
